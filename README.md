@@ -15,7 +15,8 @@ Dashboard SOC para gestión de incidentes - Detección SSH no autorizado, Asset 
 ### 🛠️ Por qué hice este proyecto
 Para demostrar habilidades de SOC Analyst / GRC: triage de alertas, priorización de incidentes y documentación para ISO 27001.
 
-### 📸 Screenshots
+### 📸 Screenshots<img width="1293" height="481" alt="captura pro security" src="https://github.com/user-attachments/assets/78c9b229-d4e1-4327-8452-5cc1a5d6a49f" />
+
 Sube aquí las fotos después de guardar este README.
 
 ### 👨‍💻 Autor
