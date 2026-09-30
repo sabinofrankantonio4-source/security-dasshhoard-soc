@@ -3,7 +3,7 @@
 
 Dashboard SOC para gestión de incidentes - Detección SSH no autorizado, Asset Inventory, Endpoint Manager - Hecho con Amazon Q Apps.
 
-**🔴 Live Demo:** Pega aquí tu link de `quick.aws.com`
+**🔴 Live Demo:** Pega aquí tu link de `quick.aws.com`https://quick.aws.com/sn/account/202906064389/apps/4579a169-6267-4d4d-afd5-fa017bf895a3/view/Security-Dashboard
 
 ### 🚨 Funcionalidades
 - Gestión de incidentes (Abierto / En progreso / Resuelto)
